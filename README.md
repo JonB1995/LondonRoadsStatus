@@ -10,12 +10,12 @@ Users can input a road ID and date range to get the road status.
 
 ## How to Build
 1. Clone the repository: `git clone https://github.com/JonB1995/LondonRoadsStatus`
-2. Navigate to the project directory: `cd RoadStatusChecker`
+2. Navigate to the project directory: `cd LondonRoadsStatus`
 3. Build the project: `dotnet build`
 
 ## How to Run
 - Run the application with: `dotnet run --project LondonRoadsStatus [RoadID] [StartDate] [EndDate]`
-- Example: `dotnet run --project RoadStatusChecker A2 "2022-11-10" "2022-11-18"`
+- Example: `dotnet run --project LondonRoadsStatus A2 "2022-11-10" "2022-11-18"`
 
 ## Running Tests
 - Navigate to the test project directory: `cd LondonRoadsStatus`
