@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LondonRoadsStatus", "LondonRoadsStatus\LondonRoadsStatus.csproj", "{FE6FF5AD-3A89-40F0-9D1A-08542AF77247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LondonRoadsStatusTests", "LondonRoadsStatusTests\LondonRoadsStatusTests.csproj", "{8DE3DB47-6B7B-4B71-B622-34B3D018C1E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE6FF5AD-3A89-40F0-9D1A-08542AF77247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6FF5AD-3A89-40F0-9D1A-08542AF77247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6FF5AD-3A89-40F0-9D1A-08542AF77247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6FF5AD-3A89-40F0-9D1A-08542AF77247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE3DB47-6B7B-4B71-B622-34B3D018C1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE3DB47-6B7B-4B71-B622-34B3D018C1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE3DB47-6B7B-4B71-B622-34B3D018C1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE3DB47-6B7B-4B71-B622-34B3D018C1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DF5004F-82E6-4527-A23E-BE5A52F7F051}
+	EndGlobalSection
+EndGlobal
